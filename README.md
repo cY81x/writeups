@@ -1,2 +1,2 @@
 # WRITEUPS
-Publicly published writeups for Hack The Box challenges,  boxes, fortresses and endgames.
+Publicly published writeups for different hacks in Hack The Box, CTF:s, Try Hack Me etc.
