@@ -1,4 +1,5 @@
 # ATTENDED
+[logo]: https://github.com/cY81x/hack-the-box-writeups/blob/main/ATTENDED.png "Attended"
 ```
 OS: OpenBSD
 Difficulty: Insane
