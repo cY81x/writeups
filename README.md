@@ -1,2 +1,2 @@
-# hack-the-box-writeups
+# WRITEUPS
 Publicly published writeups for Hack The Box challenges,  boxes, fortresses and endgames.
